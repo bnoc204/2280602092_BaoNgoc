@@ -1,0 +1,11 @@
+[
+  { "id": 101, "name": "T-Shirt", "categoryId": 7, "price": 19.99 },
+  { "id": 102, "name": "Jeans", "categoryId": 7, "price": 49.99 },
+  { "id": 103, "name": "Smartphone", "categoryId": 8, "price": 599.99 },
+  { "id": 104, "name": "Headphones", "categoryId": 8, "price": 99.99 },
+  { "id": 105, "name": "Sofa", "categoryId": 9, "price": 899.0 },
+  { "id": 106, "name": "Coffee Table", "categoryId": 9, "price": 129.0 },
+  { "id": 107, "name": "Running Shoes", "categoryId": 10, "price": 79.99 },
+  { "id": 108, "name": "Necklace", "categoryId": 13, "price": 29.99 },
+  { "id": 109, "name": "Test Item A", "categoryId": 18, "price": 5.0 }
+]
